@@ -1,7 +1,3 @@
-Baik! Berikut saya buatkan **materi perkuliahan** dengan subtema **Object Relational Mapping (ORM) di Framework PHP** beserta **Penggunaan Eloquent ORM**, lengkap dengan **pretest** dan **posttest** berformat esai.
-
----
-
 # 📚 Materi Perkuliahan
 
 ## **Object Relational Mapping (ORM) dan Eloquent ORM di Laravel**
