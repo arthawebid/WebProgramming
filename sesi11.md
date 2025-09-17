@@ -1,5 +1,3 @@
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8dfdd253-0aa1-494f-a2b8-e053d9d44317" />Baik! Saya buatkan **materi perkuliahan** yang fokus pada **Proses Create, Read, Update, Delete (CRUD) di Laravel** dan **Form Validation di Laravel** supaya bisa langsung digunakan untuk pengajaran.
-
 ---
 
 # 📚 Materi Perkuliahan
