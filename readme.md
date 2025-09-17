@@ -11,7 +11,7 @@ controller dan memahami interaksi database dengan menggunakan library yang dised
 5. CRUD (Create, Read, Update, Delete) berbasis framework laravel
 
 # Materi Tiap Pertemuan
-## 1. [sesi1.md](Konsep OOP (Object Oriented Programming))
+## 1. [https://github.com/arthawebid/WebProgramming/blob/main/sesi1.md](Konsep OOP (Object Oriented Programming))
 1. Konsep OOP, Class, Object 
 2. Tools pemrograman PHP
 3. Class dan method pada PHP
@@ -62,3 +62,7 @@ controller dan memahami interaksi database dengan menggunakan library yang dised
 2. Fitur pada project
 3. Laporan project 
 ## 16. Penilaian 2
+
+## Lainnya
+[https://github.com/arthawebid/LaraReactFranken](LaraReactFranken)
+[https://github.com/arthawebid/catatan-frankenphp](Catatan Frankenphp)
