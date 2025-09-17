@@ -1,4 +1,4 @@
-# konsep OOP (Object Oriented Programming)
+# Konsep OOP (Object Oriented Programming)
 ## Konsep OOP, Class, Object, Tools pemrograman PHP, Class dan method pada PHP
 
 Berikut ini adalah **materi perkuliahan Laravel** yang mencakup **sub-materi dasar pemrograman berorientasi objek (OOP) di PHP**, sebagai pengantar sebelum masuk ke Laravel secara menyeluruh. Materi ini cocok digunakan di minggu-minggu awal perkuliahan Laravel untuk memberikan pondasi yang kuat.
