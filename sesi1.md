@@ -157,5 +157,3 @@ echo Kalkulator::tambah(5, 3); // Output: 8
 2. Install Laravel secara lokal dan jalankan server lokal (`php artisan serve`).
 
 ---
-
-Ingin saya buatkan juga **slide presentasi PowerPoint (.pptx)** atau **modul PDF** dari materi ini?
