@@ -393,7 +393,4 @@ Buatlah sebuah aplikasi **Perpustakaan** dengan dua class:
 2. **Pustakawan**: dengan atribut **nama** dan metode **pinjamBuku()** dan **kembalikanBuku()**.
 
 Buatlah interaksi antara objek **Pustakawan** dengan objek **Buku** menggunakan metode **pinjam()** dan **kembalikan()**!
-
----
-[Home](https://github.com/arthawebid/WebProgramming)
 ---
