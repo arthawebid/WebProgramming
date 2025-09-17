@@ -209,7 +209,7 @@ Materi ini memberikan pengenalan dasar tentang pemrograman berorientasi objek de
 
 ---
 
-Tentu! Berikut adalah beberapa soal untuk menguji pemahaman mengenai materi **Konsep OOP, Class, Object, Tools Pemrograman PHP**, serta **Class dan Method pada PHP**.
+Berikut adalah beberapa soal untuk menguji pemahaman mengenai materi **Konsep OOP, Class, Object, Tools Pemrograman PHP**, serta **Class dan Method pada PHP**.
 
 ---
 
