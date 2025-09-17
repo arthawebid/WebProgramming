@@ -16,6 +16,18 @@ Setelah mengikuti materi ini, mahasiswa diharapkan:
 
 ---
 
+## 📝 **Pertanyaan Awal (Pre-Test)**
+
+> **Tujuan:** Menilai pengetahuan awal mahasiswa sebelum materi disampaikan.
+
+1. Apa fungsi utama dari *View* dalam arsitektur MVC?
+2. Apakah Anda mengetahui apa itu *templating engine* dalam pengembangan web?
+3. Sebutkan satu keuntungan menggunakan templating engine dibandingkan HTML biasa!
+4. Apa nama templating engine bawaan yang digunakan oleh Laravel?
+5. Menurut Anda, apa fungsi `{{ }}` dalam file Blade Laravel?
+
+---
+
 ## 📘 **1. Pengertian View di Laravel**
 
 ### 📌 Apa itu View?
@@ -164,17 +176,22 @@ Route::get('/greeting', function () {
 
 ## 📝 **Tugas atau Quiz Singkat**
 
-1. Apa fungsi `@yield` dan `@section` dalam Blade?
-2. Buat file `about.blade.php` yang mewarisi layout utama dan menampilkan biodata Anda.
-3. Jelaskan perbedaan `{{ }}` dan `{!! !!}` di Blade.
+1. Apa itu **Blade** dalam Laravel dan mengapa digunakan?
+2. Apa fungsi `@yield` dan `@section` dalam Blade?
+3. Apa perbedaan antara `@yield` dan `@section` dalam Blade?
+4. Apa fungsi dari `@extends` dalam Blade?
+5. Buat file `about.blade.php` yang mewarisi layout utama dan menampilkan biodata Anda.
+6. Jelaskan perbedaan `{{ }}` dan `{!! !!}` di Blade.
+7. Jelaskan cara menyisipkan file partial seperti header atau navbar menggunakan Blade.
+8. Tuliskan contoh file Blade yang menampilkan daftar nama dari array `$mahasiswa = ['Andi', 'Budi', 'Citra'];` menggunakan `@foreach`.
 
 ---
 
 ## 📎 **Kesimpulan**
 
-* View di Laravel digunakan untuk menyajikan UI.
-* Blade adalah templating engine Laravel yang sangat efisien dan terintegrasi.
-* Blade mendukung layout inheritance, komponen, dan kontrol struktur.
+* View di Laravel digunakan untuk menyajikan UI / antarmuka pengguna.
+* Blade adalah templating engine Laravel yang sangat efisien, terintegrasi, aman dan mudah digunakan.
+* Blade mendukung layout inheritance, komponen, kontrol struktur dan dapat dipelihara dengan lebih baik.
 
 ---
 
