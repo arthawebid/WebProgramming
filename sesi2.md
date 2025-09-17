@@ -161,5 +161,3 @@ Dengan memahami konsep OOP, struktur Laravel, dan fitur-fiturnya, Anda akan dapa
 3. Jelaskan konsep OOP yang digunakan dalam Controller tersebut.
 
 ---
-
-Jika kamu ingin saya bantu buatkan versi **PowerPoint (.pptx)** atau **PDF modul belajar**, cukup bilang saja. Saya bisa kirimkan struktur atau isi filenya sesuai format pengajaran.
