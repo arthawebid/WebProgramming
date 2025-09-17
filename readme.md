@@ -50,14 +50,14 @@ controller dan memahami interaksi database dengan menggunakan library yang dised
 ## 12. [Menerapkan framework dalam pemrograman web](https://github.com/arthawebid/WebProgramming/blob/main/sesi12.md)
 1. Proses create, read, update dan delete pada Laravel 
 2. Form validation di framework laravel
-## 13. (Menerapkan framework dalam pemrograman web)[https://github.com/arthawebid/WebProgramming/blob/main/sesi13.md]
+## 13. [Menerapkan framework dalam pemrograman web](https://github.com/arthawebid/WebProgramming/blob/main/sesi13.md)
 1. Proses create, read, update dan delete pada Laravel 
 2. Form validation di framework laravel
-## 14. (Menerapkan framework dalam pemrograman web)[https://github.com/arthawebid/WebProgramming/blob/main/sesi14.md]
+## 14. [Menerapkan framework dalam pemrograman web](https://github.com/arthawebid/WebProgramming/blob/main/sesi14.md)
 1. Mengimplementasikan sebuah project dengan menggunakan framework Laravel 
 2. Fitur pada project
 3. Laporan project 
-## 15. (Menerapkan framework dalam pemrograman web)[https://github.com/arthawebid/WebProgramming/blob/main/sesi15.md
+## 15. [Menerapkan framework dalam pemrograman web](https://github.com/arthawebid/WebProgramming/blob/main/sesi15.md)
 1. Mengimplementasikan sebuah project dengan menggunakan framework Laravel 
 2. Fitur pada project
 3. Laporan project 
