@@ -41,7 +41,7 @@ controller dan memahami interaksi database dengan menggunakan library yang dised
 1. Model di framework Laravel 
 2. Query builder di framework Laravel
 3. Penggunaan query builder 
-## [10. Menerapkan Framework dalam Pemrograman Web](https://github.com/arthawebid/WebProgramming/blob/main/sesi10.md)
+## 10. [Menerapkan Framework dalam Pemrograman Web](https://github.com/arthawebid/WebProgramming/blob/main/sesi10.md)
 1. Object Relational Mapping (ORM) di framework PHP 
 2. Penggunaan Eloquent ORM
 ## 11. [Menerapkan Framework dalam Pemrograman Web](https://github.com/arthawebid/WebProgramming/blob/main/sesi11.md)
