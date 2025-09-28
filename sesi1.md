@@ -1,7 +1,3 @@
-Tentu! Berikut adalah materi perkuliahan dengan sub-materi yang Anda sebutkan.
-
----
-
 ## **Mata Kuliah: Pemrograman Berorientasi Objek dengan PHP**
 
 ### **1. Konsep OOP, Class, dan Object**
