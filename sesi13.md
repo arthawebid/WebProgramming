@@ -1,7 +1,3 @@
-Siap! Saya buatkan **project sederhana lain** dengan konsep yang sama (CRUD + Form Validation), tapi kali ini kita gunakan **entity berbeda** supaya mahasiswa punya variasi latihan.
-
----
-
 # 📂 **Project Sederhana 2: Student Management**
 
 ## 1️⃣ **Persiapan Project**
