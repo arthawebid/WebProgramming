@@ -1,10 +1,3 @@
-**Project Sederhana** Laravel yang mencakup **CRUD** (Create, Read, Update, Delete) dan **Form Validation**.
-
-Project ini akan menggunakan **Laravel 10+**, **Eloquent ORM**, dan **Blade Template**.
-Topik yang diangkat: **Manajemen Produk** (`Product Management`).
-
----
-
 # 📂 **Project Sederhana: Product Management**
 
 ## 1️⃣ **Persiapan Project**
