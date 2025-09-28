@@ -1,7 +1,3 @@
-Baik! Saya buatkan **panduan implementasi project Laravel** dengan fokus pada **Fitur Project** dan **Laporan Project** supaya mahasiswa bisa mengerjakan tugas akhir atau mini project dengan sistematis.
-
----
-
 # 📚 **Materi Perkuliahan: Implementasi Project Laravel**
 
 ## 🎯 **Tujuan Pembelajaran**
@@ -145,5 +141,3 @@ Berikut **format laporan project Laravel** yang disarankan:
 * Tambahkan **flowchart** dan **ERD** untuk memperjelas desain sistem.
 
 ---
-
-Mau saya buatkan **template laporan project (format Word)** yang sudah siap diisi mahasiswa, sehingga tinggal mengganti nama project dan menambahkan screenshot?
