@@ -387,5 +387,6 @@ Buatlah sebuah aplikasi **Perpustakaan** dengan dua class:
 
 1. **Buku**: dengan atribut **judul**, **penulis**, dan **status pinjam**. Metode **pinjam()** dan **kembalikan()**.
 2. **Pustakawan**: dengan atribut **nama** dan metode **pinjamBuku()** dan **kembalikanBuku()**.
+
 Buatlah interaksi antara objek **Pustakawan** dengan objek **Buku** menggunakan metode **pinjam()** dan **kembalikan()**!
 ---
