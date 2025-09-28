@@ -1,10 +1,6 @@
 **Framework PHP dan Laravel**.
-
-Materi ini dapat digunakan untuk **minggu ke-2 atau ke-3** dalam WebProgramming
 ---
-
 ## 📚 MATERI PERKULIAHAN: **Menerapkan OOP dalam Pemrograman Web**
-
 ---
 
 ### 1. **Framework PHP**
