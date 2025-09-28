@@ -188,10 +188,10 @@ Jika validasi gagal, Laravel otomatis:
 
 ## 4️⃣ **Keuntungan Menggunakan Form Validation Laravel**
 
-✅ Mengurangi kemungkinan input data yang salah.
-✅ Mencegah SQL Injection dan bug karena data tidak sesuai format.
-✅ Pesan error otomatis bisa ditampilkan ke pengguna.
-✅ Sangat mudah diterapkan pada setiap controller.
+1. ✅ Mengurangi kemungkinan input data yang salah.
+2. ✅ Mencegah SQL Injection dan bug karena data tidak sesuai format.
+3. ✅ Pesan error otomatis bisa ditampilkan ke pengguna.
+4. ✅ Sangat mudah diterapkan pada setiap controller.
 
 
 ---
