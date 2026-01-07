@@ -1,3 +1,4 @@
+
 `## 🧑‍🏫 **Materi Perkuliahan: Menerapkan Framework dalam Pemrograman Web**
 
 ### 🎯 **Tujuan Umum**
@@ -127,57 +128,3 @@ Routing adalah sistem pemetaan URL ke fungsi atau controller dalam aplikasi.
 
 ---
 
-## catatan API BukuTeman
-### Menampilkan data dari BukuTeman
-Parameter:
-
-NIM : ganti dengan NIM masing-masing
-
-Method: GET
-```bash
-https://api.bukuteman.ptov.my.id/NIM/bukuteman
-```
-### Menambahkan data ke BukuTeman
-Parameter
-NIM: ganti dengan NIM masing-masing
-
-Parameter Post data:
-
-Method: POST
-
-parameter:
-dengan tipe data: String
-
-namatamu, alamat, kota, telp, wa, email
-```bash
-https://api.bukuteman.ptov.my.id/NIM/bukuteman
-```
-### Mengubah data ke BukuTeman
-Parameter
-1. NIM: ganti dengan NIM masing-masing
-2. ID: id dari data teman yang hendak diubah
-
-Parameter Post data:
-
-Method: PUT
-
-parameter:
-dengan tipe data: String
-
-namatamu, alamat, kota, telp, wa, email
-```bash
-https://api.bukuteman.ptov.my.id/NIM/bukuteman/ID
-```
-
-### Menghapus data ke BukuTeman
-Parameter
-1. NIM: ganti dengan NIM masing-masing
-2. ID: id dari data teman yang hendak diubah
-
-Parameter Post data:
-
-Method: DELETE
-
-```bash
-https://api.bukuteman.ptov.my.id/NIM/bukuteman/ID
-```
